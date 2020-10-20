@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8201c0d5444ac757bae912fa04e2fcf0",
+    "revision": "3c36f83d5c6bc842148351fc30d3a1ec",
     "url": "/index.html"
   },
   {
-    "revision": "39bd8d4a27753c59f67f",
-    "url": "/static/css/main.7272ec31.chunk.css"
+    "revision": "ed426cbea1115929916a",
+    "url": "/static/css/main.111ab9fe.chunk.css"
   },
   {
-    "revision": "63eb82f3419554dc6735",
-    "url": "/static/js/2.762e9817.chunk.js"
+    "revision": "752d44dcf269586aff8f",
+    "url": "/static/js/2.a280db30.chunk.js"
   },
   {
-    "revision": "39bd8d4a27753c59f67f",
-    "url": "/static/js/main.c08f3cf0.chunk.js"
+    "revision": "ed426cbea1115929916a",
+    "url": "/static/js/main.c2357825.chunk.js"
   },
   {
     "revision": "6fa858923d38a1370eb8",
@@ -58,6 +58,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "623191384a7f5b9332ffd6d3e007b099",
     "url": "/static/media/moftal-sol.62319138.png"
+  },
+  {
+    "revision": "504e209879e57d93a41f463ac1ca2c73",
+    "url": "/static/media/noqoodyinvoice.504e2098.png"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
