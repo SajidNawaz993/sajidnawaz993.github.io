@@ -1,21 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.111ab9fe.chunk.css",
-    "main.js": "/static/js/main.e63b2a8f.chunk.js",
-    "main.js.map": "/static/js/main.e63b2a8f.chunk.js.map",
+    "main.js": "/static/js/main.51e83cfe.chunk.js",
+    "main.js.map": "/static/js/main.51e83cfe.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.401d8185.js",
     "runtime-main.js.map": "/static/js/runtime-main.401d8185.js.map",
-    "static/js/2.182415de.chunk.js": "/static/js/2.182415de.chunk.js",
-    "static/js/2.182415de.chunk.js.map": "/static/js/2.182415de.chunk.js.map",
+    "static/js/2.2a8ed862.chunk.js": "/static/js/2.2a8ed862.chunk.js",
+    "static/js/2.2a8ed862.chunk.js.map": "/static/js/2.2a8ed862.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.edd97ae1b78b8b91cc8e3e315c2d97c3.js": "/precache-manifest.edd97ae1b78b8b91cc8e3e315c2d97c3.js",
+    "precache-manifest.d3dd27487b70332b0bffde2bd81e6fb2.js": "/precache-manifest.d3dd27487b70332b0bffde2bd81e6fb2.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.111ab9fe.chunk.css.map": "/static/css/main.111ab9fe.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/contactMail.png": "/static/media/contactMail.d6d4086f.png",
     "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
     "static/media/gtek-logo.c8024a2d.png": "/static/media/gtek-logo.c8024a2d.c8024a2d.png",
-    "static/media/hsp-android.jpg": "/static/media/hsp-android.8f101931.jpg",
     "static/media/leadconcept.jpg": "/static/media/leadconcept.bf66ed16.jpg",
     "static/media/logo.svg": "/static/media/logo.25bf045c.svg",
     "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
@@ -27,8 +26,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.401d8185.js",
-    "static/js/2.182415de.chunk.js",
+    "static/js/2.2a8ed862.chunk.js",
     "static/css/main.111ab9fe.chunk.css",
-    "static/js/main.e63b2a8f.chunk.js"
+    "static/js/main.51e83cfe.chunk.js"
   ]
 }
