@@ -328,7 +328,7 @@ const bigProjectsFive = {
       name: "Cyber Garage Global (iOS)"
     },
     {
-      image: "https://raw.githubusercontent.com/JaveedIshaq/sajid-nawaz-portfolio-code/refs/heads/main/src/assets/images/my-day-tv-os.jpeg?token=GHSAT0AAAAAAC4RJRQK27WE4RBACJWYGQMGZ47WSTQ", // Update with actual image ID from your Drive
+      image: "https://raw.githubusercontent.com/SajidNawaz993/sajidnawaz993.github.io/refs/heads/master/src/assets/images/my-day-tv-os.jpeg", // Update with actual image ID from your Drive
       link: "https://drive.google.com/drive/folders/1TPlwevAOlX8Nl4Wgm9uS2B0lCP_dT7ZF", // Update with actual App Store link
       name: "My Day TVOS"
     }
